@@ -1,3 +1,3 @@
-# hello-worldi
+# hello-world
 
 Hi Humans!
